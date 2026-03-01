@@ -1,8 +1,8 @@
 
-![alt text](Screenshots/DECEIVER_Logo.png)
-
 
 # 🎭 DECEIVER — Social Engineering Training Platform
+
+![alt text](Screenshots/DECEIVER_Logo.png)
 
 ![DECEIVER Training Platform](https://img.shields.io/badge/DECEIVER-Social_Engineering_Training-c0392b?style=for-the-badge&logo=openai&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
