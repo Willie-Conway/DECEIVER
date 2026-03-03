@@ -459,11 +459,7 @@ MIT License — see LICENSE file for details.
   <strong>🎭 DECEIVER — Transform Security Awareness from Boring to Unforgettable 🎭</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILT_WITH-❤️-c0392b?style=for-the-badge&labelColor=1a1410" />
-  <img src="https://img.shields.io/badge/FOR-Security_Awareness-1a4a2e?style=for-the-badge&labelColor=1a1410" />
-  <img src="https://img.shields.io/badge/TRY_IT_LIVE-8b6914?style=for-the-badge&labelColor=1a1410" />
-</p>
+
 
 ---
 
